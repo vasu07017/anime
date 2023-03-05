@@ -1,0 +1,86 @@
+.headline{
+font-size: 3rem;
+align-items:auto ;
+position: absolute;
+padding-top: 20px;
+padding-left: 400px;
+
+color:red;
+}
+.d{
+    position: absolute;
+    margin-top: 100px;
+   margin-right: 100px;
+  text-align: center;  
+  margin-left: 140px;
+
+margin-bottom: 100px;
+}
+.btn{
+    padding: 100px 50px;
+color: red;  
+margin-left: 50px;
+
+}
+.btno{
+    padding: 100px 100px;
+color: red;  
+margin-left: 50px;
+margin-top: 30px;
+background-size: cover;
+
+}
+
+.btnm{
+    padding: 100px 100px;
+color: red;  
+margin-left: 50px;
+margin-top: 30px;
+background-size: cover;
+
+}
+
+.btns{
+    padding: 100px 100px;
+color: red;  
+margin-left: 50px;
+margin-top: 30px;
+background-size: cover;
+
+}
+.btnp{
+    padding: 100px 100px;
+color: red;  
+margin-left: 50px;
+background-size: contain;
+
+}
+
+.naruto{
+    background-image: url("naruto.jpeg");
+    background-size: cover;
+
+}
+
+.pain{
+    background-image: url("pain.jpeg");
+    background-size: cover;
+    
+}
+
+.sasuke{
+    background-image: url("sasuke.jpg");
+    background-size: cover;
+}
+
+.madara{
+    background-image: url("madara uchiha.png");
+    background-size: cover;
+    
+}
+
+.obito{
+    background-image: url("obito.jpeg");
+    
+    
+}
